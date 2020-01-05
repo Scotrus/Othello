@@ -10,3 +10,5 @@ While allowing the users to play the famous board game "Othello", it blocks all 
 
 # How to play
 Open Othello.java file with RTP compiler and press Run button on the top left corner of the window.
+
+![alt text](https://github.com/Scotrus/Othello/blob/master/Othello.java%20running%20screen.png)
